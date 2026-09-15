@@ -30,3 +30,10 @@ Diante desse cenário, a análise foi desenvolvida para consolidar as informaç�
 - Como os custos e as despesas estão distribuídos entre operacionais e não operacionais?  
 - Como os custos e as despesas estão distribuídos entre fixos e variáveis?  
 - Quais categorias de custos e despesas possuem maior impacto sobre o resultado?  
+
+## 📊 KPIs e Métricas Analisados
+
+A definição dos indicadores foi orientada pelas perguntas de negócio, considerando a estrutura e a granularidade disponíveis nos dados financeiros.  
+
+Resultado financeiro | Margem financeira | Recebimentos | Custos | Despesas | Variação YoY (%) | Receita operacional| Receita não operacional| Participação (%) |
+Receita por cliente | Participação na receita (%) |Custos e despesas por classificação | Participação (%) | Custos e despesas por tipo | Participação (%) |Valor por categoria; Participação (%)| % sobre os recebimentos
